@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.pontoeletronico",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "PontoEletronico",
+    "packageName": "com.pontoeletronico",
+    "packageFolder": "com/pontoeletronico",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGJhNDBlODlhNThjYmZlYWZjNDRiNDY4MmFhZGJmNDBmYjAzYjhjMWM4YmU1OWMwMDQ3ODc0ZDM3M2Q5NjZlNjczYjUwMjQ0Y2QxN2YyYzk0YjQ4YmUwZjg4NTJkMzc5M2ExZWFmMTE2ZTcwMDU3YzIyNGRiYTI3NjA5M2E3YWY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ],
+    "herokuAppName": "immense-river-37862",
+    "herokuDeployType": "git"
+  }
+}
